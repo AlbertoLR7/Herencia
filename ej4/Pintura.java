@@ -10,8 +10,9 @@ public class Pintura {
         return forma.area() / cobertura;
     }
     /* aquí yace el polimorfismo,
-       el metodo recibe el objeto pintura
-       pero puede ser cualquier forma
+       el metodo recibe el objeto forma
+       pero puede ser cualquier figura
     */
 }
+
 
